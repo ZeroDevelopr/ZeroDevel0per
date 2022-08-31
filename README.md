@@ -6,9 +6,9 @@ Currently A Novice Developer
 
 *   📝  I'm currently learning
 
-<a href="https://www.twitter.com/ZeroDevel0per" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/zerodevel0per" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/zerodevel0per?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/ZeroDevel0per" target="_blank" rel="noreferrer"><img
+                /></a><a href="https://www.github.com/zerodevel0per" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/zerodevel0per?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
