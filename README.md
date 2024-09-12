@@ -1,7 +1,7 @@
 ![Mario Pixel](https://github.com/ZeroDevelopr/ZeroDevelopr/blob/main/Mario-Pixel.gif)
 ```js
 const response = {
-    status: 202,
+    status: 200,
     data: {
         firstName: "Iman",
         lastName: "Ranjbar",
