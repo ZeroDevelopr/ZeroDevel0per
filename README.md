@@ -5,7 +5,7 @@ const response = {
     data: {
         firstName: "Iman",
         lastName: "Ranjbar",
-        birthDay: "September 26",
+        birthday: "September 26",
         quote: "Stars don't shine, they BURN"
     }
 };
